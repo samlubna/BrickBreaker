@@ -1,5 +1,5 @@
 # BrickBreaker
-The classic brick breaker game made using Java's Swing libraray
+The classic brick breaker game made using Java's Swing library
 
 <figure> 
   <br>
